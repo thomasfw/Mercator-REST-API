@@ -1,0 +1,21 @@
+{
+	"name": "humanmade/mercator-REST-API",
+	"description": "REST API for working with domain mappings.",
+	"homepage": "https://github.com/humanmade/Mercator-REST-API",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name":"Human Made Limited",
+			"email":"support@humanmade.co.uk",
+			"homepage":"http://hmn.md/"
+		}
+	],
+	"type": "wordpress-muplugin",
+	"require": {
+		"composer/installers": "~1.0",
+	 }
+
+}
